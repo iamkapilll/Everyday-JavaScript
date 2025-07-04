@@ -1,0 +1,42 @@
+#pic1{
+    width: 500px;
+    height: 600px;
+    margin: 20px;
+    display: flex;
+    /* display: inline-block; */
+    
+}
+
+#pic2{
+    width: 500px;
+    height: 600px;
+    margin: 20px;
+    display:flex;
+    /* display: inline-block; */
+}
+
+#pic3{
+    width: 200%px;
+    height: 600px;
+    margin: 20px;
+    display: flex;
+    /* display: inline-block; */
+}
+.rectangle{
+    width: 500px;
+    height: 600px;
+    margin: 20px;
+    display:flex;
+    border-radius: 50%;
+}
+
+
+.purple{
+    background-color: purple;
+}
+.red{
+    background-color: red;
+}
+.border{
+    border: 5px solid rgb(71, 10, 241);
+}

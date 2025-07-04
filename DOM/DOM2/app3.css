@@ -1,0 +1,17 @@
+li{
+    background-color: cyan;
+
+}
+
+.highlight{
+    background-color: blue;
+    
+}
+
+.border{
+    border: 5px solid magenta;
+}
+
+li:hover{
+    background-color: yellow;
+}
